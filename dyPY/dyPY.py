@@ -25,4 +25,4 @@
 x = int(input("x value: "))
 y = int(input("y value: "))
 z = int(input("z value: "))
-print(x, y, z)
+print(f"{x}, {y}, {z}")
